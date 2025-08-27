@@ -1,12 +1,12 @@
 # Aashish Garg — 2× Founder & CTO • AI Engineer • Quant
-Building at the intersection of AI and finance.
+Building at the intersection of AI and finance
 
 [LinkedIn](https://www.linkedin.com/in/aashish-garg94/) • [GitHub](https://github.com/aashishgarg94)
 
 ---
 
 ## Highlights
-- **2× founder & CTO** — scaled consumer ecommerce to **180k+ MAU**; now building **AI Service-as-Software**.
+- **2× founder & CTO** — scaled consumer ecommerce to **180k+ MAU**; now building an **AI Service-as-Software** product.
 - **4th place, consumer track**, **Solana Global Hackathon (Mar 2024)** for *w3bber*.
 - Led HFT engineering; team traded up to **~10% of daily market volume** at peak.
 - Career arc: **Quant & Trading** → **Consumer Tech Startup Founder** → **AI Startup Builder**
@@ -43,15 +43,15 @@ Building at the intersection of AI and finance.
 ## Selected Projects
 - **DeFi AI Agent** — Intelligent agent for decentralized finance operations, combining AI decision-making for autonomous execution and risk management across multiple DeFi protocols with real-time market analysis.
   *Stack:* Python • Advanced ML pipelines • DeFi protocol integration  
-  **Code:** [defi_ai_agent](https://github.com/aashishgarg94/https://github.com/aashishgarg94/agents_defi_public)
+  **Code:** [defi_ai_agents](https://github.com/aashishgarg94/agents_defi_public)
 
 - **Mnemo Public** — Open world RPGs with AI agents to foster learning in children. Adaptive educational quests with impersonation, RAG, and multi-agent orchestration for personalized learning experiences.  
   *Stack:* FastAPI backend • React frontend • multi-agent services  
-  **Code:** [mnemo-public](https://github.com/aashishgarg94/mnemo-public)
+  **Code:** [mnemo-public](https://github.com/aashishgarg94/mnemo_public)
 
 - **w3bber Voting** — Decentralized ratings for the internet with transparent, on-chain reputation. Web3-powered rating system enabling community-driven content evaluation.  
   *Context:* 4th place, consumer track, Solana Global Hackathon  
-  **Code:** [w3bber_voting](https://github.com/aashishgarg94/https://github.com/aashishgarg94/w3bber-voting)
+  **Code:** [w3bber_voting](https://github.com/aashishgarg94/w3bber-voting)
 
 ---
 
